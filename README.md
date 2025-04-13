@@ -1,4 +1,3 @@
-# YQC-2025
 ## Inspiration 
 
 We were inspired by our love for Quantum Computing, as well as the destructive fires that have happened recently, primarily ones like the LA wildfires. Many people lost everything in those fires, and the realization that Quantum Computing could help people in times of need inspired us to push harder and keep working, despite the challenges we faced. 
@@ -7,13 +6,13 @@ We were inspired by our love for Quantum Computing, as well as the destructive f
 
 ## What it does 
 
-The algorithm solves a maximally independent set problem given a set of points in 2D space. This set of points can be generated from satellite data and we designed a custom algorithm to show how this can be used in the real world – specifically in Almeda County   
+The algorithm solves a maximally independent set problem given a set of points in 2D space. This set of points can be generated from satellite data and we designed a custom algorithm to show how this can be used in the real world – specifically in our testcase of Almeda County  -a community that was narrowly saved from California Wildfires – but what if? We wanted to see what could have happened and what we could have done.  
 
  
 
 ## How we built it 
 
-We used Bloqade’s local python quantum computer simulator as a base for our quantum algorithm. In theory this could be built on a stack based off a real quantum computer, but we were unable to integrate that functionality. 
+We used Bloqade’s local python quantum computer simulator as a base for our quantum algorithm. In theory this could be built on a stack based off a real quantum computer. 
 
  
 
