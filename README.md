@@ -12,7 +12,7 @@ The algorithm solves a maximally independent set problem given a set of points i
 
 ## How we built it 
 
-We used Bloqade’s local python quantum computer simulator as a base for our quantum algorithm. In theory this could be built on a stack based off a real quantum computer. 
+We used Bloqade’s local python quantum computer simulator as a base for our quantum algorithm. In theory this could be built on a stack based off a real quantum computer, but we also show how his can be scaled further with some of our simulations that exceeded our quantum compute budget. -More details and pseudocode in the github 
 
  
 
